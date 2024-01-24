@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-01-24T08:10:11Z" name="Default suite" finished-at="2024-01-24T08:10:14Z" duration-ms="2822">
+  <suite started-at="2024-01-24T14:12:12Z" name="gmail" finished-at="2024-01-24T14:12:15Z" duration-ms="2892">
     <groups>
     </groups>
-    <test started-at="2024-01-24T08:10:11Z" name="Default test" finished-at="2024-01-24T08:10:14Z" duration-ms="2822">
+    <test started-at="2024-01-24T14:12:12Z" name="Test" finished-at="2024-01-24T14:12:15Z" duration-ms="2892">
       <class name="com.Jenkins.implementation.gmail">
-        <test-method signature="launch()[pri:0, instance:com.Jenkins.implementation.gmail@6057aebb]" started-at="2024-01-24T08:10:11Z" name="launch" finished-at="2024-01-24T08:10:14Z" duration-ms="2770" status="PASS">
+        <test-method signature="launch()[pri:0, instance:com.Jenkins.implementation.gmail@13d4992d]" started-at="2024-01-24T14:12:12Z" name="launch" finished-at="2024-01-24T14:12:15Z" duration-ms="2853" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launch -->
       </class> <!-- com.Jenkins.implementation.gmail -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- gmail -->
 </testng-results>
